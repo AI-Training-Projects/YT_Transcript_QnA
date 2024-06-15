@@ -1,0 +1,11 @@
+streamlit
+langchain
+huggingsound
+pytube
+torch
+librosa
+soundfile
+requests
+ffmpeg-python
+openai==0.27
+
